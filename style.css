@@ -1,0 +1,29 @@
+body {
+  background-color: burlywood;
+}
+h1 {
+  text-align: center;
+  color: sienna;
+  font-size: 50px;
+  font-family: 'Courier New', monospace;
+}
+h2 {
+    text-align: justify;
+}
+p {
+  color: darkblue;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 90%;
+}
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:33%;  
+  float:left;
+}
