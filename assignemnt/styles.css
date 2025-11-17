@@ -1,0 +1,46 @@
+
+.expletus-sans{
+  font-family: "Expletus Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+
+
+
+
+
+body{
+	background-color: beige;
+}
+img{
+ display: inline;
+ margin: auto;
+ width: 30%;
+ height: 50%;
+
+}
+.work {
+	text-align: center;
+	font-family: copperplate, fantasy;
+	font-size: 80px;
+	margin: auto;
+	color: darksalmon;
+}
+
+.work2 {
+	text-align: center;
+	font-family: arial, sans-serif;
+}
+.image1{
+ width: 90.5%;
+ height: 50%;
+}
+.thumb{
+	border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 70px;
+  width: 150px;
+}
