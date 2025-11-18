@@ -1,0 +1,44 @@
+
+
+.one{
+	 border-style: solid;
+  border-width: 4px;
+  border-color: blueviolet;
+  padding: 4px;
+	background-color: skyblue;
+	text-align: center;
+	font-family: 'Courier New', monospace;
+	width:100%;
+    overflow: auto;
+}
+
+
+
+.two{
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+.column{
+	width: 32%;
+	float: left;
+
+}
+
+.clear{
+	clear: both;
+}
+
+.footer{
+	background-color: cadetblue;
+}
+
+.bg{
+	background-image: url("bird.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+
+}
