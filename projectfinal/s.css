@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.imgbox {
+    display: grid;
+    height: 100%;
+}
+.center-fit {
+    max-width: 100%;
+    max-height: 200vh;
+    margin: auto;
+}
+
+.linkedit{
+  color: #7E634B;
+   font-size: 80px;
+   text-decoration: none;
+   margin: 25px ; 
+}
+.linkedit2{
+    color: #FFFFC0;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 25px ; 
+    padding-left: 20px;
+}
+
+.padding{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+a:hover{
+ color: #712A06;
+}
+
+@font-face{
+  src: url(CactusJack.otf);
+  font-family: CactusJack;
+}
+
+.cactusjack{
+  font-family: CactusJack;
+}
+@font-face{
+    src: url(Yozai-Regular.ttf);
+    font-family: yozaireg;
+}
+
+.yozaireg{
+  font-family: yozaireg;
+}
+
+@font-face{
+  src: url(AutumnHuismuis22-3zGGy.otf);
+  font-family: AutumnHuismuis22;
+}
+.autumn{
+  font-family: AutumnHuismuis22;
+}
+
+
+
+
+
+
+.siteheaderwrapper{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.indextop{
+    z-index: 2;
+}
+.indexbtm{
+    z-index: 3;
+}
+.position{
+    position: absolute;
+}
+
+.secondtext{
+    color: #7E634B;
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 9px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+
+}
+.commissionstext{
+font-size: 90px;
+}
+
+.bg{
+   background-image:url(btm.jpg);
+   background-repeat:repeat;
+   background-size:cover;
+  
+
+
+}
+.board{
+    max-width: 130%;
+    max-height: 140vh;
+}
+
+.boardiv{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.selector {
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.footer2{
+    z-index: 4;
+     margin-top: -170px;
+    max-width:100%
+}
+.textpadding{
+    margin-top: -620px;
+    margin-right: 300px;
+}
+.text {
+    position: relative;
+    z-index: 5;
+    color: #FFFFC0;
+    font-size: 40px;
+    text-align: end;
+    margin-bottom: -149px;
+    text-decoration: none;
+}
+
+.abouttheartist{
+     position: relative;
+    z-index: 6;
+    color: #FFFFC0;
+    font-size: 90px;
+    text-align: end;
+    text-decoration: none;
+}
+
+.allrightsreserved{
+    margin-left: auto;
+    padding-right: 30px;
+}
+.nav{
+     position: relative;
+     margin-top: -149px;
+}
+
+.about{
+      text-align: end;
+    margin-top: -1130px;
+    margin-left: auto;
+    padding-right: 176px;
+    color: #382C15;
+     font-size: 90px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+.intro{
+    margin-top: 51px;
+    margin-bottom: 100px;
+     max-width:100%
+}
+.introtext{
+    color: #7E634B;
+    text-align: left;
+    font-size: 40px;
+    padding-left: 160px;
+    padding-right: 140px;
+    line-height: 1.9;
+    overflow: hidden;
+}
