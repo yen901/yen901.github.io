@@ -34,6 +34,7 @@ a:hover{
  color: #712A06;
 }
 
+
 @font-face{
   src: url(CactusJack.otf);
   font-family: CactusJack;
@@ -189,4 +190,27 @@ font-size: 90px;
     padding-right: 140px;
     line-height: 1.9;
     overflow: hidden;
+}
+.backtotoptext{
+    color: #7E634B;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+.arrow{
+    width: 60px;
+    height: 30px;
+}
+
+.backtotopcontainer{
+    text-align: center;
+    align-content: center;
+
+}
+.backtotop{
+    scroll-behavior: smooth;
+}
+
+.typewriter{
+    padding-top: 80px;
 }
